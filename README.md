@@ -37,7 +37,8 @@ Norm_of_matrix = "{:.2f}". format(ans)
 ## Output:
 ### 1-Norm of a Matrix
 ![Screenshot 2024-05-24 190921](https://github.com/MohanKumar755/Norm-of-a-matrix/assets/146155007/8a1bcb7c-13f8-48d8-b272-ec620bc83801)
-
+[[-1, 3], [3, 4], [1, 7]]
+14.00
 ### 2-Norm of a Matrix
 <br>
 <br>
