@@ -36,9 +36,7 @@ Norm_of_matrix = "{:.2f}". format(ans)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>"C:\Users\admin\OneDrive\Pictures\Screenshots\Screenshot 2024-05-24 190921.png"
-<br>
-<br>
+![Screenshot 2024-05-24 190921](https://github.com/MohanKumar755/Norm-of-a-matrix/assets/146155007/8a1bcb7c-13f8-48d8-b272-ec620bc83801)
 
 ### 2-Norm of a Matrix
 <br>
