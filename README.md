@@ -1,4 +1,6 @@
+# EX : 7
 # Norm of a matrix
+DATE:
 ## Aim
 To write a program to find the 1-norm, 2-norm and infinity norm of the matrix and display the result in two decimal places.
 ## Equipment’s required:
@@ -51,6 +53,7 @@ Norm_of_matrix = "{:.2f}". format(ans)
 ![Screenshot 2024-05-24 192918](https://github.com/MohanKumar755/Norm-of-a-matrix/assets/146155007/42e05959-31d7-4daf-b57e-5b763cfa5d93)
 
 [[-1,3], [3,-4], [1,7]]
+
 8.00
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
